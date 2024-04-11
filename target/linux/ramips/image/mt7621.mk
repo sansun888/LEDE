@@ -264,7 +264,7 @@ define Device/asus_rt-ac57u
   $(Device/dsa-migration)
   DEVICE_VENDOR := ASUS
   DEVICE_MODEL := RT-AC57U
-  IMAGE_SIZE := 16064k
+  IMAGE_SIZE := 65216k
   DEVICE_PACKAGES := kmod-mt7603 kmod-mt76x2 kmod-usb3 \
 	kmod-usb-ledtrig-usbport
 endef
